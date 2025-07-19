@@ -4,7 +4,8 @@
 	"publisher": "Octanoz",
 	"License": "MIT",
 	"description": "Dark brown editor background with dark blue menus and sidebar. Syntax mostly yellows, pastel blue and green with operators in neon green.",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"icon": "MUD.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Octanoz/muddied-dark"
