@@ -4,6 +4,10 @@
 	"publisher": "Octanoz",
 	"description": "Dark brown editor background with dark blue menus and sidebar. Syntax mostly yellows, pastel blue and green with operators in neon green.",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Octanoz/muddied-dark"
+	},
 	"engines": {
 		"vscode": "^1.96.0"
 	},
