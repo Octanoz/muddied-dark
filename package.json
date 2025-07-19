@@ -2,6 +2,7 @@
 	"name": "muddied-dark",
 	"displayName": "Muddied Dark",
 	"publisher": "Octanoz",
+	"License": "MIT",
 	"description": "Dark brown editor background with dark blue menus and sidebar. Syntax mostly yellows, pastel blue and green with operators in neon green.",
 	"version": "0.0.1",
 	"repository": {
