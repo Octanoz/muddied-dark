@@ -1,0 +1,24 @@
+{
+	"name": "muddied-dark",
+	"displayName": "Muddied Dark",
+	"description": "Dark brown editor background with dark blue menus and sidebar. Syntax mostly yellows, pastel blue and green with operators in neon green.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Muddied Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Muddied Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 98802
+	}
+}
